@@ -1,6 +1,6 @@
 # MShower 🚀
 
-![GitHub Org](https://img.shields.io/badge/Organization-MShower-blue)![Stars](https://img.shields.io/github/stars/MShower?style=social)
+![GitHub Org](https://img.shields.io/badge/Organization-MShower-blue) ![Stars](https://img.shields.io/github/stars/MShower?style=social)
 
 Welcome to **MShower**, a GitHub organization dedicated to **game modding, creative programming, and experimental projects**.
 
