@@ -23,14 +23,6 @@ Welcome to **MShower**, a GitHub organization dedicated to **game modding, creat
 
 ---
 
-## 🌟 Organization Stats
-
-![MShower GitHub stats](https://github-readme-stats.vercel.app/api?username=MShower&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MShower&layout=compact&theme=radical)
-
----
-
 ## 🤝 Contribute
 
 We welcome contributions! You can:
