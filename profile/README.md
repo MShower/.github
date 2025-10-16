@@ -18,7 +18,7 @@ Welcome to **MShower**, a GitHub organization dedicated to **game modding, creat
 | Project | Language | Description |
 |---------|---------|-------------|
 | [Simple Statistic List](https://github.com/MShower/Simple-Statistic-List) | Java | A simple scoreboard custom mod that can display rankings of mining and placement quantities |
-| [ComfortableEnderman](https://github.com/MShower/Comfortable-Enderman) | Java | Customize Enderman behavior; prevents them from picking blacklisted blocks |
+| [ComfortableEnderman](https://github.com/MShower/Comfortable-Enderman) | Java | Customize Enderman behavior, prevents them from picking blacklisted blocks |
 | … | … | More experimental projects and tools |
 
 ---
